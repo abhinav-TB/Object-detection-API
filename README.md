@@ -2,7 +2,7 @@
 
 # Object-detection-API
 
-Binary classifer Api for classifing images of trucks and ships
+An Api to detect objects built using coco datasets
 
 ## API Reference
 
