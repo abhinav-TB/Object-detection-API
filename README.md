@@ -1,6 +1,6 @@
 
 
-# Classifier Api
+# Object-detection-API
 
 Binary classifer Api for classifing images of trucks and ships
 
