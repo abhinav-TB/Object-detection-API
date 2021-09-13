@@ -5,5 +5,5 @@ RUN wget https://pjreddie.com/media/files/yolov3.weights -O weights/yolov3.weigh
 RUN pip install -r requirements.txt
 RUN python3 load_weights.py
 EXPOSE 5000
-ENTRYPOINT [ "python" ]
+ENTRYPOINT [ "python3" ]
 CMD [ "app.py" ]
